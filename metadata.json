@@ -1,0 +1,6 @@
+{
+  "name": "BARITONE AI — استوديو التوليد الصوتي الفخم",
+  "description": "استوديو احترافي لتوليد أصوات بشرية رجالية واقعية وفخمة، محاورات إعلامية، ووثائقيات باستخدام الذكاء الاصطناعي مجاناً بالكامل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
